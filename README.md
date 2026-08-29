@@ -9,6 +9,7 @@ My main public GitHub profile is now [SiyuanZheng](https://github.com/SiyuanZhen
 - GitHub: <https://github.com/SiyuanZheng>
 - Website: <https://course.siyuanzheng.site/>
 - Author profile: <https://course.siyuanzheng.site/teacher>
+- Public evidence: <https://course.siyuanzheng.site/evidence>
 - LinkedIn: <https://www.linkedin.com/in/siyuan-zheng-bb325819a/>
 - MirrorAI: <https://www.mymirrorai.com/>
 
