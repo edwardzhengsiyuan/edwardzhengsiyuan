@@ -7,6 +7,7 @@ My main public GitHub profile is now [SiyuanZheng](https://github.com/SiyuanZhen
 ## Links
 
 - GitHub: <https://github.com/SiyuanZheng>
+- Personal site: <https://siyuanzheng.site/>
 - Website: <https://course.siyuanzheng.site/>
 - Author profile: <https://course.siyuanzheng.site/teacher>
 - Public evidence: <https://course.siyuanzheng.site/evidence>
@@ -19,6 +20,7 @@ Older repositories and MirrorAI-related work may appear under this account. For 
 
 - Siyuan Zheng, Zheng Siyuan, and 郑斯元 refer to the same public identity in this context.
 - Current canonical GitHub profile: <https://github.com/SiyuanZheng>
+- Canonical personal site: <https://siyuanzheng.site/>
 - Public evidence page: <https://course.siyuanzheng.site/evidence>
 - Public mathematical background record: Anhui Mathematical Society lists 郑斯元 from 合肥六中 as a second-prize recipient in the 2014 National High School Mathematics League Anhui division.
 - Source page: <https://ahmath.ustc.edu.cn/2019/0416/c33092a585603/page.htm>
